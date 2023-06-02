@@ -14,7 +14,7 @@
 - 💬 Ask me about **Android**
 
 - ❓ Where am I from **Poland!**
--
+
 - 📫 How to reach me **xoliwkaa69@gmail.com**
 
 - ⚡ Fun fact **Never judge a book by its cover.**
