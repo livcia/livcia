@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **xoliwkaa69@gmail.com**
 
-- ⚡ Fun fact **Never judge a book by its cover.**
+- ⚡ **Never judge a book by its cover.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
