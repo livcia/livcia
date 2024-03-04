@@ -1,4 +1,4 @@
-[![MasterHead](https://i.imgur.com/pYIx0q0.jpeg)](https://i.imgur.com/pYIx0q0.jpeg)
+[![MasterHead](https://i.imgur.com/pYIx0qO.jpeg)](https://i.imgur.com/pYIx0qO.jpeg)
 
 <h1 align="center">Hi 👋, I'm Oliwia Ankiewicz!</h1>
 <h3 align="center">“Knowing is not enough; we must apply. Wishing is not enough; we must do.” – Johann Wolfgang von Goethe</h3>
