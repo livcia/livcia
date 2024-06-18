@@ -11,11 +11,9 @@
 
 - 🌱 I’m currently learning **Python - Machine Learning**
 
-- 💬 Ask me about **Android**
-
 - ❓ Where am I from **Poland!**
 
-- 📫 How to reach me **xoliwkaa69@gmail.com**
+- 📫 How to reach me **oliwiaankiewicz@gmail.com**
 
 - ⚡ **Never judge a book by its cover.**
 
