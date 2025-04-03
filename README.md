@@ -17,6 +17,8 @@
 
 - ⚡ **Never judge a book by its cover.**
 
+- 😎 Portfolio: https://livcia.github.io/p/
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/oliwia-ankiewicz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oliwia ankiewicz" height="30" width="40" /></a>
@@ -31,4 +33,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=livcia&show_icons=true&locale=en" alt="livcia" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=livcia&" alt="livcia" /></p>
